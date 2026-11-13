@@ -1,6 +1,3 @@
- <div align="center">
-  <img src="soft-science-banner.png" width="100%" alt="Scientific banner">
-</div>
 
 <div align="center">
 
