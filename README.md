@@ -1,8 +1,6 @@
  <div align="center">
-  <img src="assets/soft-science-banner.png" alt="Maria Clara — Science and curiosity" width="100%">
+  <img src="soft-science-banner.png" width="100%" alt="Scientific banner">
 </div>
-
-<div align="center">
 
 ### science, curiosity & a little bit of wonder ♡
 
