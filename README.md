@@ -1,5 +1,6 @@
  <div align="center">
-  <img src="assets/soft-science-banner.png" alt="Maria Clara — Science and curiosity" width="100%">
+  <img src="![Uploading soft-science-banner.png…]()
+" alt="Maria Clara — Science and curiosity" width="100%">
 </div>
 
 <div align="center">
