@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="mudkip.png" width="100" alt="Mudkip">
+</div>
 
 <div align="center">
 
