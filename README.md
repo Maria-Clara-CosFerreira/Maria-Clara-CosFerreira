@@ -21,9 +21,9 @@ Campinas, Brazil
   <h2>୨୧ a little about me</h2>
 </div>
 
-Hi! I'm Maria Clara, an undergraduate student in **Science and Technology** at Ilum School of Science, in Campinas, Brazil.
+Hi! I'm Maria Clara, an undergraduate student in Science and Technology at Ilum School of Science, in Campinas, Brazil.
 
-I'm interested in understanding living systems from different perspectives — from molecules and cells to the brain — and exploring how computational tools can help us investigate biological questions.
+I'm interested in understanding living systems from different perspectives and exploring how computational tools can help us investigate biological questions.
 
 ---
 
@@ -52,14 +52,14 @@ I'm interested in understanding living systems from different perspectives — f
   <tr>
     <td width="50%" valign="top">
       <h3>🧠 <a href="https://github.com/Maria-Clara-CosFerreira/cortical-layer-classification">Cortical Layer Classification</a></h3>
-      Exploring the classification of neurons according to cortical region and layer using the **K-Nearest Neighbors (KNN)** algorithm and data from the Allen Cell Types Database.
+      Exploring the classification of neurons according to cortical region and layer using the K-Nearest Neighbors (KNN) algorithm and data from the Allen Cell Types Database.
       <br><br>
       <img src="https://img.shields.io/badge/Python-514453?style=flat-square&logo=python&logoColor=white" alt="Python">
       <img src="https://img.shields.io/badge/Machine_Learning-B77D96?style=flat-square" alt="Machine Learning">
     </td>
     <td width="50%" valign="top">
       <h3>🧬 <a href="https://github.com/Maria-Clara-CosFerreira/brain-permeability-prediction">Brain Permeability Prediction</a></h3>
-      A machine-learning project investigating the prediction of molecular permeability across the **blood–brain barrier**, using B3DB data and molecular descriptors. The project explores regression pipelines and model optimization.
+      A machine-learning project investigating the prediction of molecular permeability across the blood–brain barrier, using B3DB data and molecular descriptors. The project explores regression pipelines and model optimization.
       <br><br>
       <img src="https://img.shields.io/badge/Python-514453?style=flat-square&logo=python&logoColor=white" alt="Python">
       <img src="https://img.shields.io/badge/Machine_Learning-B77D96?style=flat-square" alt="Machine Learning">
