@@ -1,6 +1,8 @@
  <div align="center">
   <img src="soft-science-banner.png" width="100%" alt="Scientific banner">
- </div align="center">
+</div>
+
+<div align="center">
 
 ### science, curiosity & a little bit of wonder ♡
 
